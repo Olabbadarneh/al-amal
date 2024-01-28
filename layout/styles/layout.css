@@ -90,9 +90,10 @@
 
 .column {
     float: right;
-    width: 30.33%;
     padding: 10px;
-    margin-top: 30px;
+    margin: 0px 4px 0px 0px;
+    width: 32%;
+    height: 260px;
 }
 
 .image {
